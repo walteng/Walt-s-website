@@ -1,6 +1,12 @@
+html{
+  background-color: FFOOFF;
+  font-size: 75%;
+  font-family:fantasy;
+}
 h1{
   color: blue;
   text-align: center;
+  font-style: normal;
 }
 h2{
   color: blue
@@ -9,7 +15,14 @@ h2{
 }
 p{
   font-family: sans-serif;
+  line-height: normal;
 }
 ul{
   line-height: 40px;
+}
+strong{
+  font-style: italic;
+}
+em{
+  font-weight: bold;
 }
